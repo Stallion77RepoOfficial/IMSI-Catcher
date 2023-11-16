@@ -1,4 +1,6 @@
-# IMSI-catcher
+## Bu depo bir çataldır ve telefon sinyallerini toplayarak ve sahte baz istasyonu gibi davranarak sinyal bilgilerini verir.
+
+## IMSI-catcher
 
 This program shows you IMSI numbers, country, brand and operator of cellphones around you.  
   
